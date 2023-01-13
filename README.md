@@ -1,4 +1,4 @@
-# Netology-course
+# Netology: Python for Data Science
 
 ### Лекция 1: Продвинутая линейная алгебра (Advanced linear algebra)
 1. Типы матриц (Matrix types)
